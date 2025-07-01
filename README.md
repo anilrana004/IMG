@@ -94,3 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Anil Rana - [GitHub](https://github.com/anilrana004)
 
 Project Link: [https://github.com/anilrana004/IMG.git](https://github.com/anilrana004/IMG.git) 
+Backend (API)
+http://localhost:5000
+Frontend (React app)
+http://localhost:5173
